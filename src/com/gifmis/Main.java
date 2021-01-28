@@ -4,8 +4,8 @@ public class Main {
 
     public static void main(String[] args){
 
-    Animal cow = new Animal(3, "moo", "calf");
-    Animal fowl = new Animal(2, "clurk", "chick");
+    Animal cow = new Animal(3, "moo", "calf", "white");
+    Animal fowl = new Animal(2, "clurk", "chick", "white");
             // write your code here
         System.out.println(fowl.getSound());
         System.out.println(cow.getPikin());
