@@ -12,6 +12,7 @@ public class Main {
         System.out.println(cow.getLegs());
         cow.setLegs(12);
         System.out.println(cow.getLegs());
+        System.out.println("This is my first GIT repository");
         }
     }
 
